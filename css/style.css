@@ -1,0 +1,172 @@
+body {
+	background-image: url(http://7-themes.com/data_images/out/1/6770719-animated-gifs.jpg);
+	background-attachment: fixed;
+    background-size: cover;
+    /*width: 1080px*/
+    /*background-repeat: no-repeat;*/
+}
+
+.index {
+	background-image: url(https://s.yimg.com/ny/api/res/1.2/M0DMysB5odbVuC9ZYC.u6g--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NTQwO2g9MzA0/https://s.yimg.com/cd/diminuendo/1.0/original/501b95dbb0d496445dc6ba98b5b09db61b547f9d.gif);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+p {
+	color: white;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 22px;
+}
+
+
+header {
+	text-align: center;
+}
+
+h1{
+
+	color: #333333;
+	font-family: ‘Courier New’, Courier, monospace;
+
+	color: white;
+	font-size: 40px;
+}
+
+h2, h3, h4, h5, h6 {
+	color: white;
+	font-family: ‘Courier New’, Courier, monospace;
+}
+
+#intro {
+	font-size: 30px;
+	color: green;
+	text-align: center;
+}
+
+.RamonVideo, .NickVideo, .MattVideo, .JavierVideo{ 
+	text-align: center;
+}
+
+.RamonBio, .NickBio, .MattBio, .JavierBio {
+	text-align: center;
+}
+
+
+
+
+
+
+.bioimg {
+	-webkit-transition: all 1s ease;
+	-moz-transition:all 1s ease;
+	-o-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	transition: all 1s ease;
+	border-style: solid;
+	border-radius: 1px;
+}
+
+
+.bioimg:hover {
+/*-webkit-filter: blur(0px);*/
+	-webkit-transform: rotate(-15deg);
+	-moz-transform: rotate(-15deg);
+	-o-transform: rotate(-15deg);
+	-ms-transform: rotate(-15deg);
+	transform: rotate(-15deg);
+	border-style: solid;
+	border-radius: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.descriptionPic {
+	margin: 2.5%;
+	border-style: solid;
+	border-radius: 100%;
+}
+
+
+.endfooter {
+	border-style: dotted;
+	border-radius: 100px;
+	border-width: 5px;
+	border-color: blue;
+	background-color: #bfbfbf;
+	color: #4d4d4d;
+
+}
+
+.Contactdiv {
+	margin: none;
+	padding: none;
+}
+
+
+.fillerdiv{
+	height: 50px;
+}
+
+
+
+
+
+
+
+
+
+#custom-bootstrap-menu.navbar-default .navbar-brand {
+    color: rgba(119, 119, 119, 1);
+}
+#custom-bootstrap-menu.navbar-default {
+    font-size: 14px;
+    background-color: rgba(255, 255, 255, 0);
+    border-width: 7px;
+    border-radius: 50px;
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
+    color: rgba(119, 119, 119, 1);
+    background-color: rgba(248, 248, 248, 0);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(51, 51, 51, 1);
+    background-color: rgba(248, 248, 248, 0);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(85, 85, 85, 1);
+    background-color: rgba(231, 231, 231, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle {
+    border-color: #ddd;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus {
+    background-color: #ddd;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #888;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #ffffff;
+}
